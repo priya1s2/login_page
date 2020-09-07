@@ -10,19 +10,27 @@ body{
 }
 
 .btn{
-	background-color: none !important;
+	background-color: transparent;
 	border: 2px  solid #4caf50 !important;
-    width: 100%;
+        width: 40%;
 	color: white !important;
-	margin-top: 8px 0;
+	margin-right: 18px;
 	cursor: pointer;
 
 }
 
+#b1{
+	
+    width:52% ;
+    margin-right: 0px;
+
+}
+
+
 .log{
 
-	position: absolute;
-	 top: 32%;
+    position: absolute;
+    top: 32%;
     left: 44%;
     transform:translate(-50%,-50%);
     color: white;
