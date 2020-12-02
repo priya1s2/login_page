@@ -64,12 +64,14 @@ body{
 
 
 .textbox{
-	width: 100%
+	width: 100%;
+
 	overflow: hidden;
 	font-size: 20px;
 	padding: 8px 0;
 	margin: 8px 0;
 	border-bottom: 1px solid #45a42a;
+	
 
 }
 
@@ -97,5 +99,7 @@ body{
 	border-radius: 0.25rem;
 	color: white !important;
 	font-size: 1rem;
+	display: none;
+	
 
 }
